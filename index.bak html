@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+	  <meta charset="utf-8">
+
+	  <title>symphony</title>
+	  <meta name="description" content="symphony">
+	  <meta name="author" content="SitePoint">
+
+	  <link rel="stylesheet" href="css/styles.css?v=1.0">
+	  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	</head>
+
+	<body>
+	  <script src="js/scripts.js"></script>
+	  	  
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/DG9D4Bd_e0Q" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5h1tYU-xX4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	  <iframe width="560" height="315" src="https://www.youtube.com/embed/uOS8Z47PuCE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	  
+	  <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/364158&amp;color=%236e7c86&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+
+	</body>
+</html>
